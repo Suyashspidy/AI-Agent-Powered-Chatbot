@@ -1,0 +1,5 @@
+langchain
+deeplake
+langchain-google-genai
+streamlit
+google-cloud-vision
